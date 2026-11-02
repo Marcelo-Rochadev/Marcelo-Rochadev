@@ -45,12 +45,3 @@
 |---|---|---|
 | **[TalentosUnicap](https://talentos-unicap.vercel.app)** | Plataforma que conecta estudantes da Unicap a empresas, com busca de talentos, vagas, upload de comprovantes e importação de currículo. Em beta. | Java, Spring Boot, JWT, PostgreSQL, Cloudflare R2, JS |
 | **Sheborg: Quebre o Molde** 🏆 | RPG narrativo por turnos sobre desigualdade de gênero na computação, feito em 3 dias. **Melhor jogo da Game Jam Byte Delas.** | GameMaker (GML) |
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Rochadev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Rochadev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-</p>
